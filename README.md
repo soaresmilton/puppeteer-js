@@ -13,3 +13,8 @@ Extraindo imagens do instagram usando a biblioteca Puppeteer JS, e adicionar ess
 ## Implementações de melhoria
 
 - [] Fazer o download de imagens e deixar em uma pasta temporária
+
+## Desafios utilizando o conceito desse repo
+
+- [] Criar uma automação Web que extraia dados das principais ações do IBOVESPA e salve as informações em um Google Planilha
+

@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-js-rocketseat",
+  "version": "0.0.1",
+  "description": "Extraindo imagens do instagram usando a biblioteca Puppeteer JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soaresmilton/puppeteer-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soaresmilton/puppeteer-js/issues"
+  },
+  "homepage": "https://github.com/soaresmilton/puppeteer-js#readme",
+  "dependencies": {
+    "puppeteer": "^13.1.1"
+  }
+}
